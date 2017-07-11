@@ -17,9 +17,5 @@ stb %r4, 0x00(%r12)
 bla 0x3B4280
 ```
 <p align="center">
-
-</p>
-<p align="center">
-  ![alt text](https://raw.githubusercontent.com/BISOON/PPC-Compiler/master/PPC-Compiler.PNG)
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://raw.githubusercontent.com/BISOON/PPC-Compiler/master/PPC-Compiler.PNG">
 </p>
