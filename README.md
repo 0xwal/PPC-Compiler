@@ -16,6 +16,4 @@ xori %r4, %r4, 0x01
 stb %r4, 0x00(%r12)
 bla 0x3B4280
 ```
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BISOON/PPC-Compiler/master/PPC-Compiler.PNG">
-</p>
+![alt text](https://raw.githubusercontent.com/BISOON/PPC-Compiler/master/PPC-Compiler.PNG)
