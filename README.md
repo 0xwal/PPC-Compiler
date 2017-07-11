@@ -1,7 +1,7 @@
 # PPC-Compiler
 I created this app long time ago (last 2015) using some of SN resources to make it easy for developing ppc projects.
 # How to use:
-just build the app and open the .exe the start writing your ppc code :) thats it and GUI explains more :)
+just build the app and open the .exe then start writing your ppc code :) thats it. GUI explains more :)
 
 ```
 li %r3, 0x01
@@ -16,3 +16,4 @@ xori %r4, %r4, 0x01
 stb %r4, 0x00(%r12)
 bla 0x3B4280
 ```
+![alt text](https://raw.githubusercontent.com/BISOON/PPC-Compiler/master/PPC-Compiler.PNG)
